@@ -1,7 +1,7 @@
 name: pasted_url_toast
-description: "Description here"
+description: "pasted url toast package for juneview"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/pasted_url_toast
 
 version: 1.0.0+1
 
